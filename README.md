@@ -46,7 +46,7 @@ Contributions to this repository are welcome. If you encounter any issues or hav
 
 ## License
 
-The Yandex Games SDK TypeScript types repository is licensed under the MIT License. Please see the [LICENSE](https://github.com/your-username/your-repository/blob/main/LICENSE) file for more details.
+The Yandex Games SDK TypeScript types repository is licensed under the MIT License.
 
 ## Resources
 
