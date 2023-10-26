@@ -1,7 +1,9 @@
 # Yandex Games SDK TypeScript Types
 
 This repository contains TypeScript type definitions for the Yandex Games SDK. The Yandex Games SDK is a set of tools and services provided by Yandex for developing games and interactive experiences.
+
 You can also go to [Analytics for Yandex Games](https://analytics.creex.team), or [support me](https://boosty.to/creex_team)
+
 Contact me: [Telegram](https://t.me/imikao)
 
 ## Overview
